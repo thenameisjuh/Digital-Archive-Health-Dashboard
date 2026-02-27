@@ -2,12 +2,12 @@
 Monitorização de integridade de metadados em arquivos.
 
 ## Descrição
-Sistema de monitorização e auditoria para arquivos digitais. Este script avalia a "saúde" de metadados em conjuntos de dados de larga escala, identificando lacunas de informação e garantindo a integridade dos dados para preservação a longo prazo.
+Sistema de monitorização e auditoria para arquivos digitais e bases de dados de património. Este script avalia a "saúde" de metadados em conjuntos de dados de larga escala, identificando lacunas de informação e garantindo a integridade dos dados para preservação e análise computacional a longo prazo.
 
 ## 🛠️ Tecnologias e Metodologia
-* [cite_start]**Análise de Dados**: Tratamento de ficheiros estruturados (CSV/JSON)[cite: 69].
-* **XAI (Explainable AI)**: Implementação de lógica de decisão que explica ao utilizador por que razão um arquivo é considerado "saudável" ou "crítico".
-* **Visualização**: Geração de relatórios de integridade baseados em métricas de preenchimento de campos.
+* **Análise de Dados**: Tratamento e limpeza de ficheiros estruturados (CSV/JSON) com foco em integridade.
+* **XAI (Explainable AI)**: Implementação de lógica de decisão que explica ao utilizador as métricas de qualidade do arquivo (ex: campos nulos vs. campos validados).
+* **Visualização**: Geração de relatórios técnicos de conformidade baseados em normas de edição digital.
 
-## 📂 Contexto Académico
-Desenvolvido com base nas competências de **Edição Digital e Arquivo Digital** e **Análise e Visualização de Dados**.
+## 📂 Contexto de Aplicação
+Desenvolvido como ferramenta de suporte à curadoria digital, permitindo que gestores de arquivos identifiquem rapidamente áreas que requerem intervenção técnica ou enriquecimento de dados.
